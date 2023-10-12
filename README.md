@@ -18,7 +18,7 @@ The telecommunications industry is highly competitive, and customer churn is a s
 
 **Problem Statement:**
 
-To develop a machine learning model that predicts customer churn in the telecommunications industry with at least 80% recalll score, and to segment the identified "at-risk" customers into clusters for targeted retention strategies.
+To develop a machine learning model that predicts customer churn in the telecommunications industry with at least 80% recall score, and to segment the identified "at-risk" customers into clusters for targeted retention strategies.
 
 ## Datasets
 
