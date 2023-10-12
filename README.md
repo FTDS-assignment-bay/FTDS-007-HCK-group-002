@@ -38,23 +38,65 @@ To develop a machine learning model that predicts customer churn in the telecomm
 <h3 align="left">WORKFLOW CHART</h3>
 <img src="https://github.com/FTDS-assignment-bay/FTDS-007-HCK-group-002/blob/main/assets/Flowchart_Fix.png?raw=true" width="50%">
 
-## Technology Stacks
-
-- Python
-- NumPy (`np`)
-- Pandas (`pd`)
-- Matplotlib (`plt`)
-- Scikit-learn (`sklearn`)
-- Seaborn (`sns`)
-- Statsmodels (`statsmodels`)
-- Scipy (`scipy`)
-- Imbalanced-learn (`imblearn`)
-- Pickle (`pickle`)
-- Random (`random`)
-- Warnings (`warnings`)
-
 ## Demo
 
 App Demo Link : https://huggingface.co/spaces/Irfnn/Final_Project
 
 How to use the app video: [Watch the Video](https://www.youtube.com/watch?v=O-dJi6GAvT8)
+
+## Technology Stacks
+
+Certainly, you can further break down the Machine Learning Algorithms and Model Evaluation sections in your `README.md` to specifically list the algorithms and evaluation techniques you've used. Here's how:
+
+#### Data Manipulation and Analysis:
+- **Pandas**: Data manipulation and analysis
+- **NumPy**: Numerical computing
+
+#### Data Preprocessing:
+- **Scikit-learn (sklearn)**: Various preprocessing techniques
+- **Imbalanced-learn (imblearn)**: Pipeline construction
+
+#### Machine Learning Algorithms:
+- **Scikit-learn (sklearn)**
+  - KMeans: Clustering
+  - Gradient Boosting: Classification
+  - Random Forest: Classification
+  - k-Nearest Neighbors (k-NN): Classification
+  - Decision Trees: Classification
+  - Support Vector Machines (SVM): Classification
+  - Logistic Regression: Classification
+- **Hugging Face**: Model deployment
+
+#### Model Evaluation Techniques:
+- **Scikit-learn (sklearn)**
+  - Stratified K-Fold: Cross-validation
+  - Randomized Search CV: Hyperparameter tuning
+  - Metrics: 
+    - F1 Score
+    - Recall
+    - Precision
+    - Accuracy
+    - ROC-AUC
+  - Confusion Matrix
+  - Precision-Recall Curve
+  - ROC Curve
+  
+#### Dimensionality Reduction:
+- **Scikit-learn (sklearn)**: Principal Component Analysis (PCA)
+
+#### Data Visualization:
+- **Matplotlib**: Plotting and visualization
+
+#### Data Pipeline Automation:
+- **Apache Airflow**: Workflow automation
+  - Data ingestion to Postgres
+  - Data cleaning
+  - Pushing cleaned data back to Postgres
+
+#### Databases:
+- **PostgreSQL (Postgres)**: Relational database
+
+#### Miscellaneous:
+- **Python's Standard Library**: Warning control
+
+This more detailed list should give a comprehensive overview of the methodologies and technologies you're using in your project. Feel free to add this to your `README.md`.
