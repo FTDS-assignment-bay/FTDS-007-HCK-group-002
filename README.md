@@ -46,8 +46,6 @@ How to use the app video: [Watch the Video](https://www.youtube.com/watch?v=O-dJ
 
 ## Technology Stacks
 
-Certainly, you can further break down the Machine Learning Algorithms and Model Evaluation sections in your `README.md` to specifically list the algorithms and evaluation techniques you've used. Here's how:
-
 #### Data Manipulation and Analysis:
 - **Pandas**: Data manipulation and analysis
 - **NumPy**: Numerical computing
