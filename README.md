@@ -98,5 +98,3 @@ Certainly, you can further break down the Machine Learning Algorithms and Model 
 
 #### Miscellaneous:
 - **Python's Standard Library**: Warning control
-
-This more detailed list should give a comprehensive overview of the methodologies and technologies you're using in your project. Feel free to add this to your `README.md`.
