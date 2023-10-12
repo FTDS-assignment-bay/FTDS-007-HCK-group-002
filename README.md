@@ -30,7 +30,7 @@ To develop a machine learning model that predicts customer churn in the telecomm
 ## Objectives
 
 - Data Preparation and Exploration: To clean and explore the dataset to understand the variables that influence customer churn.
-- Predictive Modeling: To develop a classification model that can predict customer churn with an recall score of at least 85%.
+- Predictive Modeling: To develop a classification model that can predict customer churn with an recall score of at least 80%.
 - Clustering Analysis: To segment the customers predicted as 'Churn' into different clusters based on their characteristics.
 - Retention Strategy: To propose targeted retention strategies for each identified cluster.
 - Evaluation: To evaluate the effectiveness of the model and the proposed retention strategies within a set timeframe (e.g., 3 months).
