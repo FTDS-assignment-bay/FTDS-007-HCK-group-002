@@ -1,7 +1,7 @@
 # ChurnGuardian
 <img src="https://github.com/FTDS-assignment-bay/FTDS-007-HCK-group-002/blob/main/assets/ChurnGuardian-Logo-Transparants.png?raw=true" width="50%">
 
-<h3 align="left"><a href="https://huggingface.co/spaces/Irfnn/Final_Project">Machine learning application to predict customer churn and loyalty, and clusters customers for targeted strategies.</a></h3>
+<h3 align="left"><a href="https://huggingface.co/spaces/Irfnn/Final_Projects">Machine learning application to predict customer churn and loyalty, and clusters customers for targeted strategies.</a></h3>
 
 ## Team
 
@@ -40,7 +40,7 @@ To develop a machine learning model that predicts customer churn in the telecomm
 
 ## Demo
 
-App Demo Link : https://huggingface.co/spaces/Irfnn/Final_Project
+App Demo Link : https://huggingface.co/spaces/Irfnn/Final_Projects
 
 How to use the app video: [Watch the Video](https://www.youtube.com/watch?v=O-dJi6GAvT8)
 
